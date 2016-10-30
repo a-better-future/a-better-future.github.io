@@ -1,0 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title-bold: We Need a Better Future
+title-normal: by ryan borker
+email: ryan@borker.co
+description: Writings about the future.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://weneedabetterfuture.co" # the base hostname & protocol for your site
+author: 
+# street_address: 
+# city: Nashville
+# state: TN
+# zip_code: 55555
+# country: United States of America
+# phone: (716) 555-5555
+
+# Plugins
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jemoji
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages" 
+tiles-count: 6
+
+# Social settings
+500px_url: 
+facebook_url: 
+github_url: 
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
+pinterest_url: 
+slack_url: 
+twitter_url: 
+google:
+  #plus: #username
+  analytics: UA-86528642-1
+# Build settings
+markdown: kramdown
+
+# Plugin: jekyll-seo-tag
+twitter:
+  username: 
+# Add one or more of the following
+facebook:
+  app_id: 
+  publisher: 
+  admins: 
+logo:
+google_site_verification: 
