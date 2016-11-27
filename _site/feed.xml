@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://weneedabetterfuture.co//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="https://weneedabetterfuture.co//feed.xml" rel="self" type="application/atom+xml" /><link href="https://weneedabetterfuture.co//" rel="alternate" type="text/html" /><updated>2016-11-27T15:43:17-08:00</updated><id>https://weneedabetterfuture.co///</id><subtitle>Writings about the future.</subtitle><entry><title type="html">Is there life after email?</title><link href="https://weneedabetterfuture.co//2016/11/22/email.html" rel="alternate" type="text/html" title="Is there life after email?" /><published>2016-11-22T00:00:00-08:00</published><updated>2016-11-22T00:00:00-08:00</updated><id>https://weneedabetterfuture.co//2016/11/22/email</id><content type="html" xml:base="https://weneedabetterfuture.co//2016/11/22/email.html">&lt;p&gt;A really, really unnecessarily detailed exploration of email&lt;/p&gt;
+
+&lt;p&gt;Email has been a perennial target for hatred. It seems like every year, there is a new exploration of why email sucks and why it should be deprecated… &lt;a href=&quot;2016&quot;&gt;http://www.theatlantic.com/technology/archive/2016/01/what-comes-after-email/422625/&lt;/a&gt;, &lt;a href=&quot;2014&quot;&gt;http://www.theatlantic.com/technology/archive/2014/08/why-email-will-never-die/375973/&lt;/a&gt;, &lt;a href=&quot;2012&quot;&gt;https://www.fastcompany.com/3002170/email-new-pony-express-and-its-time-put-it-down&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In Silicon Valley, its popularity may be due to the fact that Paul Graham called it a ‘frighteningly ambitious startup idea’ in &lt;a href=&quot;2012&quot;&gt;http://paulgraham.com/ambitious.html&lt;/a&gt;. It also may be due to the fact that lots of people feel that email is tyranny – too much noise, uncontrolled, impersonal.&lt;/p&gt;
+
+&lt;p&gt;Since then, there have been numerous contenders (and major exits) around ‘email killers.’ Mailbox, Asana, Yammer, and Slack all have made waves with their promises to eliminate email. Slack even claimed to have killed many billions of emails, &lt;a href=&quot;suggesting every 5 messages was an email killed&quot;&gt;https://blog.intercom.com/why-email-isnt-going-away/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;But email’s not dead. For every company you hear that is ditching email, or replaced it with Slack or Asana, you have the 99% of companies that still use it. Volume-wise it’s not even close. Stewart says as of late people send &lt;a href=&quot;1.5B messages every month&quot;&gt;&lt;/a&gt;. By contrast, email does nearly &lt;a href=&quot;200x that amount&quot;&gt;http://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf&lt;/a&gt;. 2.5B people have on average 2 accounts each (same source). On average, a business user receives 125 emails per day.&lt;/p&gt;
+
+&lt;p&gt;It’s a powerhouse, and it’s unlikely that email is going away anytime soon. Replacing email, then is perhaps a pipe dream. However, we can very easily imagine cannibalization and drastic reduction in email. While texting didn’t replace calling, huge number of calls have been replaced by texts. On top of that, it’s not hard to imagine improvements on the email experience. What would such a replacement look like? To understand this, we’ll first dive into why email works, whether it’s broken and if it is, what can possibly fix it.&lt;/p&gt;
+
+&lt;p&gt;I posit that Facebook at Work most naturally presents an opportunity to disrupt it, but it is still missing some key features. Asana, Slack and others won’t live because they force behavior that isn’t necessarily desirable from an individual perspective. Employees are humans, not machines.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-quick-intuitive-look-at-organizational-communication&quot;&gt;A quick, intuitive look at organizational communication&lt;/h2&gt;
+
+&lt;p&gt;I’m not a highly paid or cited academic theorist or philosopher, so you’ll find holes in the following explanation. However, I feel it’s a good starting point for understanding what the point of ‘business-oriented’ communication is.&lt;/p&gt;
+
+&lt;p&gt;There are 5 aspects that cut across the key differences in communications:
+** Richness (how much information can be transmitted) 
+** Lifespan (how long does the information need to persist)
+** Ease of Connection (how quickly can you find / connect with the right person)
+** Relationship build (how easily does the medium encourage building of relationships)
+** Time (do you have to be in the same place or not)&lt;/p&gt;
+
+&lt;p&gt;I’d argue these 5 aspects can explain most of the differences between different communication channels. There will be an infographic at some point soon.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-brief-visual-history&quot;&gt;A brief, visual history&lt;/h3&gt;
+
+&lt;p&gt;We started with verbal communication, aka talking. It’s pretty rich (not the richest, but if you use verbal and non-verbal communication well, you can often work near the maximum rate that people can undersatnd). It builds relationships because you are often forced to deal with others’ reactions. However, it is ephemeral - the words are uttered and they’re gone. It’s also hard to connect with people you don’t already know. You have to go find them and talk to them and get them to engage. People are still working on how to do this, it’s called sales. And then you have to do it in real time. You can’t ‘pick up’ old conversations with any real effectiveness.&lt;/p&gt;
+
+&lt;p&gt;Letters came along and changed that - they provided pretty flexible richness (depending on length) with a much longer lifespan and became asynchronous. Brilliant. Unfortunately, relationship building was harder, and ease of connection was no easier, if anything you had to find the person in a different location.&lt;/p&gt;
+
+&lt;p&gt;Fast forward a few thousand years and we have a lot more options: phone calls make voice connections easier; voice mail provides a longer life span for words.&lt;/p&gt;
+
+&lt;p&gt;Digital has really blown the socks off of previous communciation though: texting / messaging allows huge degree of informal flexibility in communication. You can be synchronous OR asynchronous - your pick.&lt;/p&gt;
+
+&lt;p&gt;But email provides maximum flexibility across the 5 dimensions: you can create emails designed to last forever, or just a minute; you can send it to anyone, almost immediately with email addresses; your tone of speech and how you address the note can create relationships - while not as good as in person, often better than task boards, or group channels; and you have total flexibility when it comes to time.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-email-works&quot;&gt;Why email works&lt;/h2&gt;
+
+&lt;p&gt;Thus we see how email comes to win. And in fact, email works remarkably well. That’s why people send so much of it. In reality, email is a really, really robust form of communication. It reliably replaces the following communication methods:&lt;/p&gt;
+
+&lt;p&gt;** In person chat
+** Texts
+** Phone calls
+** Memos
+** Meetings&lt;/p&gt;
+
+&lt;p&gt;It’s not 100% effective as we know at all of those, but it works pretty well. On top of that the message is ‘guaranteed’ – you have proof that you sent it and the other person received it with written proof that’s easy to access and verify. Among communication channels that’s a rarity. For organizations, which are basically engines to coordinate and make decisions, this is a massive advantage. As anyone with even a rudimentary understanding of organizational politics will know, making sure that a message has been transmitted is one of the toughest challenges.&lt;/p&gt;
+
+&lt;h3 id=&quot;reduced-transaction-costs-via-communication&quot;&gt;Reduced Transaction Costs via Communication&lt;/h3&gt;
+
+&lt;p&gt;If we wanted to get technical, we’d say email reduces transaction costs.&lt;/p&gt;
+
+&lt;p&gt;Coase’s theory of the firm didn’t get everything right, but his understanding of transaction costs is powerful. Transaction costs more broadly speaking comprise everything from trusting the person you’re interacting with to being able to align goals and share a common language. Emails provide an effective way for people in the same organization to speak this language and then get things done effectively and easily.&lt;/p&gt;
+
+&lt;h3 id=&quot;here-there-everyone-and-everywhere-everywhere&quot;&gt;Here there, everyone and everywhere everywhere&lt;/h3&gt;
+
+&lt;p&gt;On top of that, email provides a universal way of addressing someone anywhere they are, whether you know them or not. This is both a blessing and a curse as we’ll see, but it makes giving someone your contact information stunningly easy. And it ensures that without any work on the senders’ or receivers’ part, they will get the message.&lt;/p&gt;
+
+&lt;p&gt;Email serves as a general purpose method for 1 to 1 communication, as well as announcements. You can send files, make decisions, and communicate both internally and externally.&lt;/p&gt;
+
+&lt;p&gt;Most corporate email providers also have email as a ‘whole contact’. With an email address, you can often find people’s title, their phone number, and their position. This is great.&lt;/p&gt;
+
+&lt;h3 id=&quot;in-short-the-inbox-is-your-best-overall-personal-newsfeed&quot;&gt;In Short: the inbox is your best overall ‘personal’ newsfeed&lt;/h3&gt;
+
+&lt;p&gt;Access to your inbox is relatively controlled and managed. With enough time, you can turn it into a newsfeed of interesting things that you have (presumably) subscribed to. You have total flexibility with how you want to manage your communication. You choose when, where and how. That’s a lot of power to give an individual. We’ll see that the same power cuts both ways.&lt;/p&gt;
+
+&lt;h3 id=&quot;least-buggy&quot;&gt;“Least Buggy”&lt;/h3&gt;
+
+&lt;p&gt;Finally, email just works. Generally message format pretty well - attachments come across as we’d like them to. Forwarding, replying, cc’ing, and bcc’ing provide a ton of great functionality that’s hard to replicate in any other form.&lt;/p&gt;
+
+&lt;p&gt;To boot, we’ve solved a lot of problems with email. Spam is almost no longer an issue - at least spam in the traditional sense of BUY 5000 VIAGRA PILLS NOW! Virus, as well, have been relegated mostly to the dustbin. Perhaps there are more stealthy viruses on our computer, but they’re not the ‘burn and destroy’ kind. If anything, phishing is the next frontier here. More on that in a different place.&lt;/p&gt;
+
+&lt;h3 id=&quot;less-obvious-subtle-ways-email-is-great&quot;&gt;Less obvious, subtle ways email is great&lt;/h3&gt;
+
+&lt;p&gt;I am editorializing, but many of emails proponents don’t even get why it’s so good. There are a number of less obvious reasons it is amazing.&lt;/p&gt;
+
+&lt;p&gt;First, it is owned by no one - it is a truly neutral system. You don’t pay anyone (anymore) for email, or to send emails. There’s no ‘single point of failure’ for email. The protocol is open and works from Nylas N1 to Gmail.&lt;/p&gt;
+
+&lt;p&gt;Secondly, email is by its nature ephemeral. Deleting an email erases it forever (at least in the behavioral sense) - unlike searchable chats, you can safely assume an email that you want gone can be gone - in a flash.&lt;/p&gt;
+
+&lt;p&gt;Last, email allows total flexibility in communication. You structure emails how you want, with whatever tones, innuendos, and ambiguity that you can in normal conversation. This will become important later when discussing how people have supplanted email.&lt;/p&gt;
+
+&lt;p&gt;Because of its effectiveness, we’ve developed a relatively large set of ‘norms’ associated with it: we’ve learned how to communicate effectively with email because we’ve been doing it for so long. Like any social construct, people are better or worse at email, but there are less well developed rules around instant messaging or other forms of communication.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-should-we-even-bother&quot;&gt;So should we even bother?&lt;/h3&gt;
+
+&lt;p&gt;So by now, maybe we’re done ‘innovating’on email? If it’s so great, why worry about changing it? In short, because there’s a LOT more of it than there ever has been. Some workers can spend 20+% of their day handling email. This is in a sense the most productive thing they can be doing if we believe that communicating knowledge and making decisions is the job of an organization. However, it can also take away from actual work - or more accurately - it can create more work than can reliably be done by the people doing it. In this sense, it creates stress and missed goals, harder / longer hours, and unhappy people.&lt;/p&gt;
+
+&lt;h2 id=&quot;detailing-emails-failures-it-sucks-attention&quot;&gt;Detailing emails failures: it sucks attention&lt;/h2&gt;
+
+&lt;p&gt;No communication tool will be perfect. By human limits, there will be trade-offs in richness, lifespan, connection ease, relationship building and synchronicity. People understand this naturally, but in email there’s a major question. Why? Because it absorbs so much of our attention. People compulsively check mail (source) causing a lot of distraction.&lt;/p&gt;
+
+&lt;p&gt;Let’s talk about the problems email faces.&lt;/p&gt;
+
+&lt;p&gt;First, the simple stuff: on email there is often no ‘presence.’ You don’t know whether someone is there or not. On top of that, each email generates a push notification whether it is important or not. Collaborating is hard via email - sending multiple files and versions very quickly gets messy - it’s hard to get everyone on the same page at once. Some services like Gmail make this much easier, but it’s still a long ways away from seamless. Want to screenshare? Forget it.&lt;/p&gt;
+
+&lt;p&gt;More subtly, email doesn’t optimize for teams - groups within organizations that need to interact a lot and share the same information. Email lists may do for less frequent communication, but for the day to day grind email just generates a lot of traffic. Imagine maintaining a listserv for every group in your company - nightmare.&lt;/p&gt;
+
+&lt;p&gt;Related to this problem is the fact that in inboxes, information is ‘trapped.’ While good for a private joke, this is really bad for critical information. If it’s not in your inbox, it’s really tough to get at it. Not only is it trapped, it’s hard to search. Emails are searchable by subject, but people are pretty bad at creating subjects that will search well in the future.&lt;/p&gt;
+
+&lt;p&gt;Email doesn’t gate-keep. Anyone can reach you no problem. Nor does it summarize effectively what has happened. You have to catch up yourself - email by email.&lt;/p&gt;
+
+&lt;h3 id=&quot;email-as-a-task-manager&quot;&gt;Email as a task manager&lt;/h3&gt;
+
+&lt;p&gt;Paul Graham views email as a task manager. While a lot of people at work agree with that sentiment, email is a very poor task manager. It doesn’t provide the latest source of truth or versioning; it doesn’t prioritize at all, nor does it provide a way to manage tasks and have requests that persist in a way other than sending a new email.&lt;/p&gt;
+
+&lt;p&gt;Pay special attention to prioritization - one of the key tenets of Getting Things Done is figuring out what’s ‘busy work’ and what’s important. Email persistently hurts you with its ‘stack mentality’ there. Last in, first out, is a tempting and perilous default.&lt;/p&gt;
+
+&lt;h3 id=&quot;specialization&quot;&gt;Specialization&lt;/h3&gt;
+
+&lt;p&gt;There are lots of specialized tasks that people lean on email for as well - for case managemnet email is a bore. For sales it sucks. For accounting forget it. These are areas painful enough to demand their own systems (that notify, of course, on email).&lt;/p&gt;
+
+&lt;p&gt;It seems that there needs to be a degree of specialization required for a special tool. Email takes from ‘general’ attention.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-key-resource-attention&quot;&gt;The Key Resource: attention&lt;/h2&gt;
+
+&lt;p&gt;Let’s now understand how effective email is in using the most critical resource we have: our attention. For now, attention will basically be defined as ‘mental time spent focusing where you can’t do anything else.’ As a result, attention units will have a ‘focus’ component and a ‘time’ component. There is more nuance to this, because if you believe the latest behavioral research, your brain actually has two parts: a lazy part and a critical thinking part. It’s hard to engage the critical thinking part in a short period of time, and it’s easily supplanted by the lazy part. But we’ll ignore that for now.&lt;/p&gt;
+
+&lt;p&gt;Email’s basic problem is that it doesn’t direct attention well.&lt;/p&gt;
+
+&lt;p&gt;Consider the psychological steps in ‘doing’ a piece of mental work (again, don’t shoot me for this framework)&lt;/p&gt;
+
+&lt;h3 id=&quot;psychological-steps&quot;&gt;Psychological Steps:&lt;/h3&gt;
+
+&lt;p&gt;** Awareness / Notification
+** Priority judgment
+** Capacity judgment
+** Context Setting / Switching
+** Thinking 
+** Deciding
+** Acting&lt;/p&gt;
+
+&lt;p&gt;Study after study shows that focused attention is a precious and difficult commodity. Interruptions take minutes to recover from. Focused attention is SO easily hijacked by our lazy brain. Just see what happens when you get on Facebook. Click, click, click and 30 minutes are gone.&lt;/p&gt;
+
+&lt;p&gt;Email’s notification system encourages interruption and doesn’t prioritize. While there’s no good system that prioritizes work (yet), email is particularly bad because ANYBODY can interrupt you at any time.&lt;/p&gt;
+
+&lt;p&gt;More importantly, email leverages time for the sender. An email sent by the CEO acts as a command and can create thousands of hours of work. One problem here is that it is much, much easier to create work than it is to do work. Without notifications on what’s being worked on by who and for how long, people can assume that just by asking someone to do something that it gets done. This dynamic expands work. By the very act of emailing, we can create information and work cascades without understanding whether the person has capacity or not.&lt;/p&gt;
+
+&lt;p&gt;As a result of having the ‘inbox’ in one place, people often have their attention hijacked, preventing them from getting to the thinking / deciding / acting parts of work. Instead, due to context switching, they use the lazy parts of their brain to decide.&lt;/p&gt;
+
+&lt;p&gt;Don’t get me wrong - honing intuition to be able to decide quickly is a valuable resource for people and allows many tasks to get done more quickly. However, most people with too much work understand the bottleneck. The tyranny of the inbox prevents them from focusing on what’s important.&lt;/p&gt;
+
+&lt;h2 id=&quot;email-is-not-only-a-to-do-list&quot;&gt;Email is not ONLY a to-do list&lt;/h2&gt;
+
+&lt;p&gt;People who suggest email is just a to-do list miss the point. Organizations (and people) don’t only want to do work. If that were the case, Facebook wouldn’t build a feed (neither would linkedin), Twitter would have no activity during the day, and no one would visit BusinessInsider of BuzzFeed. But that’s not true.&lt;/p&gt;
+
+&lt;p&gt;Using Dan Pink’s ‘autonomy, mastery, purpose’ framework, using email as a to-do list destroys in some part our autonomy to get things done. On top of that, many people yearn for a sense of belonging that comes through strong professional relationships. People need to be able to TRUST each other to get stuff done quickly. Trust doesn’t come through assigning and delegating tasks.&lt;/p&gt;
+
+&lt;p&gt;Unless you’re in the military, direct orders don’t usually happen in the world. Email preserves communication as it exists in reality - requests without forcing. The thought of assigning tasks presents a mental hurdle, even though that’s a lot of what email is doing.&lt;/p&gt;
+
+&lt;h2 id=&quot;finding-solutions&quot;&gt;Finding Solutions&lt;/h2&gt;
+
+&lt;p&gt;The solutions to email, we will see, are often overengineered, don’t improve the tradeoffs, focus on only one of the jobs email does, or dehumanizes interactions.&lt;/p&gt;
+
+&lt;p&gt;Just look at Asana’s search functionality: you can see ‘tasks I’ve assigned’ , task and conversations I’ve created, and tasks and conversations I’m following. Hardly makes you feel great about yourself.  Task assignment feels very command and control. Unless you’re in the military, direct orders don’t usually happen in the world, at least directly phrased as such. Email preserves communication as it exists in reality - requests without forcing. The thought of assigning tasks presents a mental hurdle, even though that’s a lot of what email is doing.&lt;/p&gt;
+
+&lt;h3 id=&quot;yammer&quot;&gt;Yammer&lt;/h3&gt;
+
+&lt;p&gt;Yammer is an enterprise social network that was acquired by Microsoft to be part of Office 365. It offers organization-wide, team, private and external discussions and file sharing. Also part of the Office suite are iconic applications for document creation and sharing, voice and video calls, and web content management. The landscape within Office 365 is changing, and Yammer will soon no longer exist in its current state. Its functionality will be merged with Office 365 Groups (possibly with LinkedIn, also), providing more integration across the suite. There are over 1 billion users of Microsoft Office, with 60 million active daily users of Office 365.&lt;/p&gt;
+
+&lt;p&gt;Yammer was an ‘in-between’ solution that replace groups and message boards. It doesn’t seem to have many successful implementations anymore.&lt;/p&gt;
+
+&lt;h3 id=&quot;asana&quot;&gt;Asana&lt;/h3&gt;
+
+&lt;p&gt;Asana has been recently redesigned to focus completely on task management and projects. By focusing on projects, you have everything you need around a project in one place.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, Asana fails in that it doens’t create the kind of communication you’d want between people - it will default to email and serve mainly as a replacement for Jira or Trello.&lt;/p&gt;
+
+&lt;h3 id=&quot;slack&quot;&gt;Slack&lt;/h3&gt;
+
+&lt;p&gt;Slack is a relatively new team messaging tool, and in three years, has become one of the fastest growing cloud applications. It offers private and group discussion and document-sharing. It also features a marketplace of over 700 apps that allow users to send commands and receive notifications between Slack and many other tools and platforms, making it an “always-open” application for many organizations. It currently has 4 million active daily users, including representation from 77 organizations in the Fortune 100.&lt;/p&gt;
+
+&lt;p&gt;Slack has issues in timeliness: miss a conversations and you’re dead.&lt;/p&gt;
+
+&lt;h3 id=&quot;workplace-by-facebook&quot;&gt;Workplace by Facebook&lt;/h3&gt;
+
+&lt;p&gt;Workplace by Facebook, also known as Facebook at Work is a new secure, ad-free platform where organizations can use familiar Facebook features to communicate and collaborate. Features include private, group and multi-company discussion, file sharing, and voice and video calling. The platform and accounts are completely separate from the consumer Facebook space, and has additional features and policies to cater to more conservative enterprise customers. There are currently over 1,000 companies using it worldwide, and over 1 billion users of its consumer site.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-im-excited-about-workplace&quot;&gt;Why I’m excited about Workplace:&lt;/h4&gt;
+
+&lt;p&gt;Workplace by Facebook can succeed in small, young organizations which usually have less investment in existing tools and less governance requirements.
+Countries and industries that have been leery or restrictive of social media may be more accepting of the private Workplace version of the familiar Facebook platform.
+While Workplace by Facebook doesn’t match well against Microsoft’s offerings and foothold in the business communications market, it may do well against newer, pricier Slack.
+Organizations which blend retail and corporate HQ - many of the places we go every day - may finally have a tool that links field employees directly with ‘corporate’ employees who support and manage them.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-the-future&quot;&gt;What is the future?&lt;/h2&gt;
+&lt;p&gt;[WIP / TBD]
+Promising plug-ins or tools:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Boomerang:
+Why it works
+Boomerang allows you to ‘snooze’ messages from your inbox - a valuable feature for gmail and others. On top of that, it now has automatic ‘respondability’ readings, to encourage you to write for humans. It’s a pretty powerful tool if you’re using it for business.&lt;/li&gt;
+&lt;/ul&gt;</content><summary type="html">A really, really unnecessarily detailed exploration of email</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://weneedabetterfuture.co//assets/images/pic06.jpg" /></entry><entry><title type="html">Welcome</title><link href="https://weneedabetterfuture.co//2016/10/30/welcome.html" rel="alternate" type="text/html" title="Welcome" /><published>2016-10-30T00:00:00-07:00</published><updated>2016-10-30T00:00:00-07:00</updated><id>https://weneedabetterfuture.co//2016/10/30/welcome</id><content type="html" xml:base="https://weneedabetterfuture.co//2016/10/30/welcome.html">&lt;p&gt;Welcome to my site. Here I’ll talk about why people don’t imagine the future anymore in any detail. And why this is bad.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned.&lt;/p&gt;</content><summary type="html">Welcome to my site. Here I’ll talk about why people don’t imagine the future anymore in any detail. And why this is bad.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://weneedabetterfuture.co//assets/images/pic06.jpg" /></entry></feed>
