@@ -47,6 +47,7 @@ google:
   analytics: UA-86528642-1
 # Build settings
 markdown: kramdown
+highlighter: rouge
 
 # Plugin: jekyll-seo-tag
 twitter:
