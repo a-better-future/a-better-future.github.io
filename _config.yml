@@ -11,7 +11,7 @@ title-normal: by ryan borker
 email: ryan@borker.co
 description: Writings about the future.
 baseurl: null # the subpath of your site, e.g. /blog
-url: "https://weneedanewfuture.com" # the base hostname & protocol for your site
+url: "https://a-better-future.github.io" # the base hostname & protocol for your site
 author: 
 # street_address: 
 # city: Nashville
