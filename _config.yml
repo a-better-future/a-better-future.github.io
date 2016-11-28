@@ -11,7 +11,7 @@ title-normal: by ryan borker
 email: ryan@borker.co
 description: Writings about the future.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://weneedabetterfuture.co" # the base hostname & protocol for your site
+url: "https://weneedanewfuture.co" # the base hostname & protocol for your site
 author: 
 # street_address: 
 # city: Nashville
@@ -26,6 +26,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-feed
   - jemoji
+  - github-pages
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages" 
@@ -47,7 +48,6 @@ google:
   analytics: UA-86528642-1
 # Build settings
 markdown: kramdown
-highlighter: rouge
 
 # Plugin: jekyll-seo-tag
 twitter:
